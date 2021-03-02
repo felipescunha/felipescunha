@@ -7,14 +7,14 @@
 
 <br/>
 
-#### Meus conhecimentos
+#### Meus conhecimentos:
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html"
-      width="50"
-      height="50"
+      width="40"
+      height="40"
     />
   </a>
  
@@ -22,8 +22,8 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css"
-      width="50"
-      height="50"
+      width="40"
+      height="40"
     />
   </a>
  
