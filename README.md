@@ -44,6 +44,15 @@
       height="40"
     />
   </a>
+  
+  <a href="https://www.typescriptlang.org/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
  
   <a href="https://nodejs.org/en/">
     <img
@@ -68,6 +77,15 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://sequelize.org/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"
+      alt="sequelize"
       width="40"
       height="40"
     />
