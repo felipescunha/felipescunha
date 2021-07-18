@@ -1,8 +1,8 @@
 # Oi, sou o Felipe Cunha! 👋
 
-
+#### Pós-graduando em Engenharia de Software.
 #### Formado em Análise e Desenvolvimento de Sistemas.
-#### Aluno do Gostack 9 na [Rocketseat](https://rocketseat.com.br) 
+<!--#### Aluno do Gostack 9 na [Rocketseat](https://rocketseat.com.br) -->
 
 
 <br/>
