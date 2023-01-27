@@ -114,13 +114,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcunha-ti/)](https://www.linkedin.com/in/fcunha-ti/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fcunha.ti@gmail.com)
     
-  
-<br/>
-  
-</p>
-
-![Felipe Cunha Status](https://github-readme-stats.vercel.app/api?username=felipescunha&show_icons=true&theme=radical)
 
 
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipescunha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
